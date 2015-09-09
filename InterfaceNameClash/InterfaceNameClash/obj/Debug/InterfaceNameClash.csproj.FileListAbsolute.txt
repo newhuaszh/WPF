@@ -1,0 +1,6 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.csprojResolveAssemblyReference.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

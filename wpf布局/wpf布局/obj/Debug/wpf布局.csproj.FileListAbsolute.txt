@@ -1,0 +1,16 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\bin\Debug\wpf布局.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\bin\Debug\wpf布局.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\bin\Debug\wpf布局.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\wpf布局.csprojResolveAssemblyReference.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\MainWindow.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\App.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\wpf布局_MarkupCompile.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\wpf布局_MarkupCompile.lref
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\MainWindow.baml
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\wpf布局.g.resources
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\wpf布局.Properties.Resources.resources
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\wpf布局.csproj.GenerateResource.Cache
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\wpf布局.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\wpf布局.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\Show.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\Show.baml

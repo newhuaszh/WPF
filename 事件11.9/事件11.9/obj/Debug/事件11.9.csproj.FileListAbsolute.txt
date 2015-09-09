@@ -1,0 +1,6 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\事件11.9\事件11.9\bin\Debug\事件11.9.exe.config
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\事件11.9\事件11.9\bin\Debug\事件11.9.exe
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\事件11.9\事件11.9\bin\Debug\事件11.9.pdb
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\事件11.9\事件11.9\obj\Debug\事件11.9.csprojResolveAssemblyReference.cache
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\事件11.9\事件11.9\obj\Debug\事件11.9.exe
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\事件11.9\事件11.9\obj\Debug\事件11.9.pdb

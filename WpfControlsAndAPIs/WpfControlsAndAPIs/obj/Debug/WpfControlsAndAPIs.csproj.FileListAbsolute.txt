@@ -1,0 +1,14 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\bin\Debug\WpfControlsAndAPIs.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\bin\Debug\WpfControlsAndAPIs.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\bin\Debug\WpfControlsAndAPIs.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.csprojResolveAssemblyReference.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\MainWindow.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\App.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs_MarkupCompile.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs_MarkupCompile.lref
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\MainWindow.baml
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.g.resources
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.Properties.Resources.resources
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.csproj.GenerateResource.Cache
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.pdb

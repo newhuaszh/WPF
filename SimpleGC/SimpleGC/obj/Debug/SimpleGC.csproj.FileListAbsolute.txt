@@ -1,0 +1,6 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\SimpleGC\SimpleGC\bin\Debug\SimpleGC.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\SimpleGC\SimpleGC\obj\Debug\SimpleGC.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\SimpleGC\SimpleGC\obj\Debug\SimpleGC.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csprojResolveAssemblyReference.cache

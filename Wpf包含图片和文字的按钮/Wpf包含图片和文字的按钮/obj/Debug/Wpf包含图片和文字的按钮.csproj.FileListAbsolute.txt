@@ -1,0 +1,13 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\bin\Debug\Wpf包含图片和文字的按钮.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\bin\Debug\Wpf包含图片和文字的按钮.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\bin\Debug\Wpf包含图片和文字的按钮.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\MainWindow.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\App.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\Wpf包含图片和文字的按钮_MarkupCompile.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\Wpf包含图片和文字的按钮_MarkupCompile.lref
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\MainWindow.baml
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\Wpf包含图片和文字的按钮.g.resources
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\Wpf包含图片和文字的按钮.Properties.Resources.resources
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\Wpf包含图片和文字的按钮.csproj.GenerateResource.Cache
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\Wpf包含图片和文字的按钮.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\Wpf包含图片和文字的按钮\Wpf包含图片和文字的按钮\obj\Debug\Wpf包含图片和文字的按钮.pdb

@@ -1,0 +1,8 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\GenericPoint.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csprojResolveAssemblyReference.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\obj\Debug\GenericPoint.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\obj\Debug\GenericPoint.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\sn01396\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

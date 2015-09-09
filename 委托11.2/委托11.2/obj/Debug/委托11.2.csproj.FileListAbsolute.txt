@@ -1,0 +1,6 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\委托11.2\委托11.2\bin\Debug\委托11.2.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\委托11.2\委托11.2\bin\Debug\委托11.2.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\委托11.2\委托11.2\bin\Debug\委托11.2.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\委托11.2\委托11.2\obj\Debug\委托11.2.csprojResolveAssemblyReference.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\委托11.2\委托11.2\obj\Debug\委托11.2.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\委托11.2\委托11.2\obj\Debug\委托11.2.pdb

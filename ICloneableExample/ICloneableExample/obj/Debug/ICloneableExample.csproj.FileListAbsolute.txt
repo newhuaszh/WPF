@@ -1,0 +1,6 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.csprojResolveAssemblyReference.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.pdb

@@ -1,0 +1,6 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.csprojResolveAssemblyReference.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

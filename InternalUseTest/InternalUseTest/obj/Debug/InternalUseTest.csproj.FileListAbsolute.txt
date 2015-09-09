@@ -1,0 +1,5 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\InternalUseTest\InternalUseTest\bin\Debug\InternalUseTest.dll.config
+c:\users\sn01396\documents\visual studio 2015\Projects\InternalUseTest\InternalUseTest\bin\Debug\InternalUseTest.dll
+c:\users\sn01396\documents\visual studio 2015\Projects\InternalUseTest\InternalUseTest\bin\Debug\InternalUseTest.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\InternalUseTest\InternalUseTest\obj\Debug\InternalUseTest.dll
+c:\users\sn01396\documents\visual studio 2015\Projects\InternalUseTest\InternalUseTest\obj\Debug\InternalUseTest.pdb

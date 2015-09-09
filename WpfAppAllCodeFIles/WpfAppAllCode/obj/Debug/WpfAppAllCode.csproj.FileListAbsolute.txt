@@ -1,0 +1,9 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfAppAllCode\WpfAppAllCode\bin\Debug\WpfAppAllCode.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfAppAllCode\WpfAppAllCode\bin\Debug\WpfAppAllCode.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfAppAllCode\WpfAppAllCode\bin\Debug\WpfAppAllCode.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfAppAllCode\WpfAppAllCode\obj\Debug\WpfAppAllCode.csprojResolveAssemblyReference.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfAppAllCode\WpfAppAllCode\obj\Debug\WpfAppAllCode.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\WpfAppAllCode\WpfAppAllCode\obj\Debug\WpfAppAllCode.pdb
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\WpfAppAllCodeFIles\WpfAppAllCode\bin\Debug\WpfAppAllCode.exe.config
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\WpfAppAllCodeFIles\WpfAppAllCode\obj\Debug\WpfAppAllCode.exe
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\WpfAppAllCodeFIles\WpfAppAllCode\obj\Debug\WpfAppAllCode.pdb

@@ -1,0 +1,14 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\bin\Debug\MyXamlPad.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\bin\Debug\MyXamlPad.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\bin\Debug\MyXamlPad.pdb
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MainWindow.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\App.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad_MarkupCompile.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad_MarkupCompile.lref
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MainWindow.baml
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.g.resources
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.Properties.Resources.resources
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.csproj.GenerateResource.Cache
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.exe
+c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.pdb
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.csprojResolveAssemblyReference.cache

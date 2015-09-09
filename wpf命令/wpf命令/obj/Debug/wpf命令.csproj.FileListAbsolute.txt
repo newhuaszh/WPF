@@ -1,0 +1,14 @@
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf命令\wpf命令\bin\Debug\wpf命令.exe.config
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf命令\wpf命令\obj\Debug\MainWindow.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf命令\wpf命令\obj\Debug\App.g.cs
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf命令\wpf命令\obj\Debug\wpf命令_MarkupCompile.cache
+c:\users\sn01396\documents\visual studio 2015\Projects\wpf命令\wpf命令\obj\Debug\wpf命令_MarkupCompile.lref
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\wpf命令\wpf命令\bin\Debug\wpf命令.exe
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\wpf命令\wpf命令\bin\Debug\wpf命令.pdb
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\wpf命令\wpf命令\obj\Debug\wpf命令.csprojResolveAssemblyReference.cache
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\wpf命令\wpf命令\obj\Debug\MainWindow.baml
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\wpf命令\wpf命令\obj\Debug\wpf命令.g.resources
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\wpf命令\wpf命令\obj\Debug\wpf命令.Properties.Resources.resources
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\wpf命令\wpf命令\obj\Debug\wpf命令.csproj.GenerateResource.Cache
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\wpf命令\wpf命令\obj\Debug\wpf命令.exe
+C:\Users\sn01396\Documents\Visual Studio 2015\Projects\wpf命令\wpf命令\obj\Debug\wpf命令.pdb
