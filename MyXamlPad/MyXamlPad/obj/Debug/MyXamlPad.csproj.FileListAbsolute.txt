@@ -12,3 +12,17 @@ c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\D
 c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.exe
 c:\users\sn01396\documents\visual studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.pdb
 C:\Users\sn01396\Documents\Visual Studio 2015\Projects\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.csprojResolveAssemblyReference.cache
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\bin\Debug\MyXamlPad.exe.config
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.exe
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.pdb
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\bin\Debug\MyXamlPad.exe
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\bin\Debug\MyXamlPad.pdb
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.csprojResolveAssemblyReference.cache
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MainWindow.g.cs
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\App.g.cs
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad_MarkupCompile.cache
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad_MarkupCompile.lref
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MainWindow.baml
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.g.resources
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.Properties.Resources.resources
+C:\Users\sn01396\Documents\GitHub\WPF\MyXamlPad\MyXamlPad\obj\Debug\MyXamlPad.csproj.GenerateResource.Cache

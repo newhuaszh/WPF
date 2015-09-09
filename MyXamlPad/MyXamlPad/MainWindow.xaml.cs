@@ -61,7 +61,8 @@ namespace MyXamlPad
                         );
 
             int s32PicNum = 0;
-            string strPath = @"C:\Users\sn01396\Desktop\16png\";
+            string strRoot = AppDomain.CurrentDomain.BaseDirectory;
+            string strPath = strRoot + @"16png\";
             for (int i = 0; i < 4; i++)
             {
                 for (int j = 4; j < 8; j++)
