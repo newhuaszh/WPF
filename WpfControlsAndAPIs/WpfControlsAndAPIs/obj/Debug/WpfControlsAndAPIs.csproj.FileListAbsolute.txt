@@ -12,3 +12,17 @@ c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfCon
 c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.csproj.GenerateResource.Cache
 c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.exe
 c:\users\sn01396\documents\visual studio 2015\Projects\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.pdb
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\bin\Debug\WpfControlsAndAPIs.exe.config
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.exe
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.pdb
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\bin\Debug\WpfControlsAndAPIs.exe
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\bin\Debug\WpfControlsAndAPIs.pdb
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\MainWindow.g.cs
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\App.g.cs
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs_MarkupCompile.cache
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs_MarkupCompile.lref
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\MainWindow.baml
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.g.resources
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.Properties.Resources.resources
+D:\Documents\GitHub\WPF\WpfControlsAndAPIs\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.csproj.GenerateResource.Cache
