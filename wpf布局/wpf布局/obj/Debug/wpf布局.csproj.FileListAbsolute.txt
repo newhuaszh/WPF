@@ -14,3 +14,6 @@ c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\D
 c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\wpf布局.pdb
 c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\Show.g.cs
 c:\users\sn01396\documents\visual studio 2015\Projects\wpf布局\wpf布局\obj\Debug\Show.baml
+D:\Documents\GitHub\WPF\wpf布局\wpf布局\bin\Debug\wpf布局.exe.config
+D:\Documents\GitHub\WPF\wpf布局\wpf布局\obj\Debug\wpf布局.exe
+D:\Documents\GitHub\WPF\wpf布局\wpf布局\obj\Debug\wpf布局.pdb

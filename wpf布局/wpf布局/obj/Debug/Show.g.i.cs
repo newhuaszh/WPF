@@ -56,14 +56,6 @@ namespace wpf布局 {
         #line default
         #line hidden
         
-        
-        #line 12 "..\..\Show.xaml"
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBlock textBlock;
-        
-        #line default
-        #line hidden
-        
         private bool _contentLoaded;
         
         /// <summary>
@@ -105,9 +97,6 @@ namespace wpf布局 {
             return;
             case 2:
             this.lblMsg = ((System.Windows.Controls.Label)(target));
-            return;
-            case 3:
-            this.textBlock = ((System.Windows.Controls.TextBlock)(target));
             return;
             }
             this._contentLoaded = true;
